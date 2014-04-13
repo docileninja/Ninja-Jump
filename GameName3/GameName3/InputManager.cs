@@ -9,60 +9,37 @@ namespace GameName3
 {
     public class InputManager
     {
+        Vector2 totalSwipe;
+
+        public InputManager()
+        {
+            totalSwipe = new Vector2();
+        }
+
         public float swipeDirection()
         {
-            /*
-            var gesture = default(GestureSample);
-
-            while (TouchPanel.IsGestureAvailable)
-            {
-                gesture = TouchPanel.ReadGesture();
-
-                if (gesture.GestureType == GestureType.DragComplete)
-                {
-                    return (float)Math.Atan2(gesture.Delta.Y, gesture.Delta.X);
-                }
-            }
-            return 0.0f;
-            */
-
             
             TouchCollection touchCol = TouchPanel.GetState();
+            float valueForReturn 0f;
 
-            foreach (TouchLocation touch in touchCol)
+            if (touchCol.Count > 0)
             {
-                Console.WriteLine("TouchLocationState = {0}", touch.State);
-                // You're looking for when they finish a drag, so only check
-                // released touches.
-                if (touch.State != TouchLocationState.Released)
-                    continue;
-                
-
-                TouchLocation prevLoc;
-
-                // Sometimes TryGetPreviousLocation can fail. Bail out early if this happened
-                // or if the last state didn't move
-                if (!touch.TryGetPreviousLocation(out prevLoc) || prevLoc.State != TouchLocationState.Moved)
-                    break;
-
-
-                // get your delta
-                var delta = touch.Position - prevLoc.Position;
-
-                // Usually you don't want to do something if the user drags 1 pixel.
-                if (delta.LengthSquared() < 100)
-                    continue;
-                /*
-                if (delta.X < 0 || delta.Y < 0)
-                    return new RotateLeftCommand(_gameController);
-
-                if (delta.X > 0 || delta.Y > 0)
-                    return new RotateRightCommand(_gameController);
-                */
-                
+                TouchLocation touch = touchCol[0];
+                if (touch.State == TouchLocationState.Pressed || touch.State == TouchLocationState.Moved)
+                {
+                    TouchLocation prevLoc;
+                    if (!touch.TryGetPreviousLocation(out prevLoc) || prevLoc.State != TouchLocationState.Moved) ;//break;
+                    Vector2 delta = touch.Position - prevLoc.Position;
+                    totalSwipe += delta;
+                }
+                if (touch.State == TouchLocationState.Released)
+                {
+                    valueForReturn = (float)Math.Atan2(totalSwipe.Y, totalSwipe.X);
+                    totalSwipe = new Vector2();
+                }
             }
-            
-            return 0f;
+
+            return valueForReturn;
         }
     }
 }

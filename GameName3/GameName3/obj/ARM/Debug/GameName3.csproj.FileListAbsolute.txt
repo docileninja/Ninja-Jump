@@ -64,3 +64,38 @@ C:\Users\Carson\Documents\Visual Studio 2012\Projects\GameName3\GameName3\bin\Wi
 C:\Users\Carson\Documents\Visual Studio 2012\Projects\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\Content\SpriteFont1.xnb
 C:\Users\Carson\Documents\Visual Studio 2012\Projects\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\Content\WallGrab.xnb
 C:\Users\Carson\Documents\Visual Studio 2012\Projects\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\Content\WhiteWall.xnb
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\Content\Curl.xnb
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\Content\SpriteFont1.xnb
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\Content\WallGrab.xnb
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\Content\WhiteWall.xnb
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\Assets\ApplicationIcon.png
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\GameName3.dll
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\GameName3.pdb
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\AppManifest.xaml
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\Properties\WMAppManifest.xml
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\GameName3_Debug_ARM.xap
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\MonoGame.Framework.dll
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\SharpDX.Direct3D11.dll
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\SharpDX.dll
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\SharpDX.XAudio2.dll
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\SharpDX.MediaFoundation.dll
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\SharpDX.DXGI.dll
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\SharpDX.Direct3D11.xml
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\SharpDX.xml
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\SharpDX.XAudio2.xml
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\SharpDX.MediaFoundation.xml
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\bin\WindowsPhone\ARM\Debug\SharpDX.DXGI.xml
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\obj\ARM\Debug\GameName3.csprojResolveAssemblyReference.cache
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\obj\ARM\Debug\App.g.cs
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\obj\ARM\Debug\GamePage.g.cs
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\obj\ARM\Debug\GameName3.g.resources
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\obj\ARM\Debug\GameName3.Resources.AppResources.resources
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\obj\ARM\Debug\GameName3.csproj.GenerateResource.Cache
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\obj\ARM\Debug\GameName3.dll
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\obj\ARM\Debug\GameName3.pdb
+C:\Users\macbook-pro\Documents\GitHub\Ninja-Jump\GameName3\GameName3\obj\ARM\Debug\XapCacheFile.xml

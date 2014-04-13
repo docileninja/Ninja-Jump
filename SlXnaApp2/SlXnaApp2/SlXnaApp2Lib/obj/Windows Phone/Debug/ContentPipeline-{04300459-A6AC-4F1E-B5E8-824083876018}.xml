@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\carson\documents\visual studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\Curl.xnb</Output>
+      <Output>C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\Curl.xnb</Output>
       <Time>2014-04-12T03:43:30.0988237-07:00</Time>
     </Item>
     <Item>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\carson\documents\visual studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\WallGrab.xnb</Output>
-      <Time>2014-04-12T03:42:07.8786762-07:00</Time>
+      <Output>C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\WallGrab.xnb</Output>
+      <Time>2014-04-12T23:34:44.9361315-07:00</Time>
     </Item>
     <Item>
       <Source>WhiteWall.png</Source>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\carson\documents\visual studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\WhiteWall.xnb</Output>
+      <Output>C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\WhiteWall.xnb</Output>
       <Time>2014-04-12T10:13:16.7906049-07:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\carson\documents\visual studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\Background.xnb</Output>
+      <Output>C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\Background.xnb</Output>
       <Time>2014-04-12T22:54:14.8130389-07:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\carson\documents\visual studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\Moon.xnb</Output>
+      <Output>C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\Moon.xnb</Output>
       <Time>2014-04-12T22:56:11.7826264-07:00</Time>
     </Item>
     <Item>
@@ -52,8 +52,53 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\carson\documents\visual studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\Savannah.xnb</Output>
+      <Output>C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\Savannah.xnb</Output>
       <Time>2014-04-12T23:02:05.9864337-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WoodWall1.png</Source>
+      <Name>WoodWall1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\WoodWall1.xnb</Output>
+      <Time>2014-04-13T07:21:42.1219753-07:00</Time>
+    </Item>
+    <Item>
+      <Source>wall_left.png</Source>
+      <Name>wall_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\wall_left.xnb</Output>
+      <Time>2014-04-13T09:44:53.7846198-07:00</Time>
+    </Item>
+    <Item>
+      <Source>wall_right.png</Source>
+      <Name>wall_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\wall_right.xnb</Output>
+      <Time>2014-04-13T09:39:01.6724647-07:00</Time>
+    </Item>
+    <Item>
+      <Source>wall.png</Source>
+      <Name>wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\wall.xnb</Output>
+      <Time>2014-04-13T11:21:15.6981521-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Font1.spritefont</Source>
+      <Name>Font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\Font1.xnb</Output>
+      <Time>2014-02-03T14:00:00-08:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -62,10 +107,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>c:\users\carson\documents\visual studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2LibContent\</RootDirectory>
-      <LoggerRootDirectory>c:\users\carson\documents\visual studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\</LoggerRootDirectory>
-      <IntermediateDirectory>c:\users\carson\documents\visual studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\obj\Windows Phone\Debug\</IntermediateDirectory>
-      <OutputDirectory>c:\users\carson\documents\visual studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2LibContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

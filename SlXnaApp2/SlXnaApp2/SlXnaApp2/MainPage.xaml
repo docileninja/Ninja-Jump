@@ -22,17 +22,22 @@
 
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
-            <TextBlock x:Name="ApplicationTitle" Text="MY APPLICATION" Style="{StaticResource PhoneTextNormalStyle}"/>
-            <TextBlock x:Name="PageTitle" Text="page name" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            <TextBlock x:Name="ApplicationTitle" Style="{StaticResource PhoneTextNormalStyle}">
+            	<Run/>
+            	<LineBreak/>
+            	<Run/>
+            </TextBlock>
+            <TextBlock x:Name="PageTitle" Text="Ascension" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
-        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            
+        <Grid x:Name="ContentPanel" Margin="10,178,14,10" Grid.RowSpan="2">
+
             <!--Create a single button to navigate to the second page which is rendered with the XNA Framework-->
-            <Button Height="100" Content="Change to game page" Click="Button_Click" />
-            
+            <Button Height="100" Content="Begin" Click="Button_Click" />
+            <TextBlock x:Name="HighScore" Height="65" Margin="100,520,100,0" TextWrapping="Wrap" Text="Highscore:" VerticalAlignment="Top" Style="{StaticResource PhoneTextTitle2Style}"/>
+
         </Grid>
     </Grid>
- 
+
 </phone:PhoneApplicationPage>

@@ -10,3 +10,19 @@ c:\users\carson\documents\visual studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaA
 c:\users\carson\documents\visual studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\Background.xnb
 c:\users\carson\documents\visual studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\Moon.xnb
 c:\users\carson\documents\visual studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\Savannah.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\Curl.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\WallGrab.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\WhiteWall.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\Background.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\Moon.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\Savannah.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\WoodWall1.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\wall_left.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\wall_right.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\wall.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\Font1.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\SlXnaApp2Lib.dll
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\SlXnaApp2Lib.pdb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\obj\Windows Phone\Debug\SlXnaApp2Lib.dll
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\obj\Windows Phone\Debug\SlXnaApp2Lib.pdb

@@ -15,10 +15,20 @@ namespace SlXnaApp2
 {
     public partial class MainPage : PhoneApplicationPage
     {
+        static int highscore;
+
+        public static int Highscore
+        {
+            get { return highscore; }
+            set { if (value > highscore) { highscore = value; } }
+        }
+
         // Constructor
         public MainPage()
         {
             InitializeComponent();
+            Highscore = 1000;
+            HighScore.Text = "Highscore:" + highscore.ToString();
         }
 
         // Simple button Click event handler to take us to the second page

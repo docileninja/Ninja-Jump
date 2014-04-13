@@ -4,3 +4,8 @@ Content\WhiteWall.xnb
 Content\Background.xnb
 Content\Moon.xnb
 Content\Savannah.xnb
+Content\WoodWall1.xnb
+Content\wall_left.xnb
+Content\wall_right.xnb
+Content\wall.xnb
+Content\Font1.xnb

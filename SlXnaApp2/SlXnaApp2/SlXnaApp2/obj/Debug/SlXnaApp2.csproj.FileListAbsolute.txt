@@ -20,3 +20,30 @@ c:\users\carson\documents\visual studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaA
 c:\users\carson\documents\visual studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\Background.xnb
 c:\users\carson\documents\visual studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\Moon.xnb
 c:\users\carson\documents\visual studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\Savannah.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\Curl.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\WallGrab.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\WhiteWall.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\Background.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\Moon.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\Savannah.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\WoodWall1.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\wall_left.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\wall_right.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\wall.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\Font1.xnb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\ApplicationIcon.png
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Background.png
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\SlXnaApp2.dll
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\SlXnaApp2.pdb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\AppManifest.xaml
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\SlXnaApp2.xap
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\SlXnaApp2Lib.dll
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\SlXnaApp2Lib.pdb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\SlXnaApp2.csprojResolveAssemblyReference.cache
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\App.g.cs
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\GamePage.g.cs
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\MainPage.g.cs
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\SlXnaApp2.g.resources
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\SlXnaApp2.dll
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\SlXnaApp2.pdb
+C:\Users\Carson\Documents\GitHub\Ninja-Jump\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\XapCacheFile.xml
